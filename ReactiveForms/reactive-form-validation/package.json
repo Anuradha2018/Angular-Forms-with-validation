@@ -42,6 +42,7 @@
     "tar": "^4.4.13",
     "tree-kill": "^1.2.2",
     "webpack-dev-server": "^3.11.1",
+    "webpack-subresource-integrity": "^1.5.2",
     "websocket-extensions": "^0.1.4",
     "yargs-parser": "^20.2.4",
     "zone.js": "~0.8.26"
